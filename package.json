@@ -1,0 +1,21 @@
+{
+    "name": "kw-calc-box-jeonghyeonim",
+    "version": "0.0.1",
+    "description": "",
+    "main": "main.js",
+    "scripts": {
+        "test": "jest"
+    },
+    "bin": {
+        "calcbox": "./main.js"
+    },
+    "author": "",
+    "license": "ISC",
+    "devDependencies": {
+        "jest": "^27.5.1"
+    },
+    "dependencies": {
+        "git": "^0.1.5"
+    }
+}
+
